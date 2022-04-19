@@ -1,4 +1,4 @@
-# Naive Bayes
+# Naive Bayes Classifier
 
 ## Importing the libraries
 
